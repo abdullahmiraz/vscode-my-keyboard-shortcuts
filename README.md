@@ -1,33 +1,34 @@
 # vscode-my-keyboard-shortcuts
-My custom vscode keyboard shortcuts/keymap/ keybindings
+My custom vscode keyboard shortcuts/ keymap/ keybindings  
  
-  
-| Keybinding              | Command   | When       | Does             | Source |
-| --------------- | ------------ | ------------------ | -------------- | -------- |
-| `ctrl+c`         | editor.action.clipboardCopyAction | editorTextFocus     | Copies the selected text to the clipboard      | System   |
-| `ctrl+x`         | editor.action.clipboardCutAction  | editorTextFocus    | Cuts the selected text to the clipboard        | System   |
-| `ctrl+v`         | editor.action.clipboardPasteAction | editorTextFocus                              | Pastes the contents of the clipboard           | System   |
-| `ctrl+z`         | undo                          |                                                  | Undoes the previous action                     | System   |
-| `ctrl+shift+z`   | redo                          |                                                  | Redoes the previous action                     | System   |
-| `ctrl+a`         | editor.action.selectAll       |                                                  | Selects all text in the active editor          | System   |
-| `ctrl+f`         | actions.find                  |                                                  | Opens the Find panel                           | System   |
-| `ctrl+h`         | editor.action.startFindReplaceAction |                                              | Opens the Replace panel                        | System   |
-| `ctrl+space`     | editor.action.triggerSuggest  | editorTextFocus                                 | Triggers code suggestions                      | System   |
-| `alt+mouse select` | editor.action.insertCursorAtEndOfEachLineSelected | editorTextFocus && mousePressed            | Inserts a cursor at the end of each selected line | System   |
-| `ctrl+shift+q`   | java.debug.runJavaFile        |                                                  | Runs the Java file                              | User     |
-| `ctrl+shift+a`   | -extension.currentAREPLSession | !inQuickOpen && !terminalFocus                   | Disables the current AREPL session              | User     |
-| `ctrl+shift+a`   | code-runner.run               |                                                  | Runs the code using Code Runner extension       | User     |
-| `ctrl+alt+n`     | -code-runner.run              |                                                  | Disables Code Runner extension                  | User     |
-| `ctrl+shift+space` | -editor.action.triggerParameterHints | editorHasSignatureHelpProvider && editorTextFocus | Disables trigger for parameter hints         | User     |
-| `ctrl+shift+space` | workbench.action.toggleActivityBarVisibility |                                      | Toggles the visibility of the activity bar      | System   |
-| `shift+home`     | expandLineSelection           | textInputFocus                                   | Expands the line selection                      | System   |
-| `ctrl+l`         | -expandLineSelection          | textInputFocus                                   | Disables line selection expansion                | User     |
-| `shift+l`        | cursorHomeSelect              | textInputFocus                                   | Selects from the cursor to the line start        | System   |
-| `shift+home`     | -cursorHomeSelect             | textInputFocus                                   | Disables cursor home selection                   | User     |
-| `ctrl+tab`       | workbench.action.openNextRecentlyUsedEditor |                                            | Switches to the next recently used editor       | System   |
-| `ctrl+\``        | workbench.action.terminal.toggleTerminal |                                        | Toggles the visibility of the terminal           | System   |
-| `esc`            | workbench.action.closeQuickOpen |                                          | Closes the Quick Open panel                      | System   |
-| `ctrl+k ctrl+s`  | workbench.action.openGlobalKeybindings |                                     | Opens the Keyboard Shortcuts settings           | System   |
-| `ctrl+shift+p`   | workbench.action.showCommands |                                                  | Opens the command palette                        | System   |
-| `space`          | leaveSnippet                  | editorTextFocus && inSnippetMode                 | Leaves the snippet mode and highlights          | User     |
 
+
+| Serial | Key              | Does                                          |
+| ------ | ---------------- | --------------------------------------------- |
+| 1      | `ctrl+shift+z`   | Changes the code to the previous style        |
+| 2      | `space`          | Leaves the snippet mode and highlights        |
+| 3      | `ctrl+shift+q`   | Runs the Java file                            |
+| 4      | `ctrl+shift+a`   | Disables the current AREPL session            |
+| 5      | `ctrl+shift+a`   | Runs the code using Code Runner extension     |
+| 6      | `ctrl+alt+n`     | Disables Code Runner extension                |
+| 7      | `ctrl+shift+space` | Disables trigger for parameter hints        |
+| 8      | `ctrl+shift+space` | Toggles the visibility of the activity bar    |
+| 9      | `shift+home`     | Expands the line selection                    |
+| 10     | `ctrl+l`         | Disables line selection expansion              |
+| 11     | `shift+l`        | Selects from the cursor to the line start      |
+| 12     | `shift+home`     | Disables cursor home selection                 |
+| 13     | `ctrl+c`         | Copies the selected text                       |
+| 14     | `ctrl+x`         | Cuts the selected text                         |
+| 15     | `ctrl+v`         | Pastes the copied/cut text                     |
+| 16     | `ctrl+z`         | Undoes the last action                         |
+| 17     | `ctrl+shift+z`   | Redoes the previously undone action            |
+| 18     | `ctrl+a`         | Selects the entire document                    |
+| 19     | `ctrl+f`         | Opens the find dialog                          |
+| 20     | `ctrl+h`         | Opens the replace dialog                       |
+| 21     | `ctrl+shift+p`   | Opens the command palette                      |
+| 22     | `ctrl+tab`       | Switches between open editor tabs              |
+| 23     | `ctrl+\``        | Opens the integrated terminal                  |
+| 24     | `esc`            | Closes the current menu or dialog              |
+| 25     | `ctrl+k ctrl+s` | Opens the Keyboard Shortcuts editor            |
+| 26     | `ctrl+space`     | Triggers suggestions                           |
+| 27     | `alt+mouse`      | Enables multiple cursor selection              |
