@@ -27,7 +27,7 @@ My custom vscode keyboard shortcuts/ keymap/ keybindings
 | 20     | `ctrl+h`         | Opens the replace dialog                       |
 | 21     | `ctrl+shift+p`   | Opens the command palette                      |
 | 22     | `ctrl+tab`       | Switches between open editor tabs              |
-| 23     | `ctrl+\``        | Opens the integrated terminal                  |
+| 23     | ctrl + `        | (Backtick) Opens the integrated terminal                  |
 | 24     | `esc`            | Closes the current menu or dialog              |
 | 25     | `ctrl+k ctrl+s` | Opens the Keyboard Shortcuts editor            |
 | 26     | `ctrl+space`     | Triggers suggestions                           |
