@@ -33,3 +33,4 @@ My custom vscode keyboard shortcuts/ keymap/ keybindings
 | 26     | `ctrl+space`     | Triggers suggestions                           |
 | 27     | `alt+mouse`      | Enables multiple cursor selection              |
 | 28     | `"Select Text" + F2 ` |  Select a text and press f2 key, rename to all the available positions |
+| 29     | `ctrl+g` |  Press and enter the line number to go there |
