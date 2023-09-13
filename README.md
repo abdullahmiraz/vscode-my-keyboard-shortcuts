@@ -36,6 +36,7 @@ My custom vscode keyboard shortcuts/ keymap/ keybindings
 | 29     | `ctrl+g` |  Press and enter the line number to go there |
 | 29     | `ctrl+g` |  Press and enter the line number to go there |
 |30 | `ctrl+shift+f ` |  Click a text on VScode and use this shortcut to find a text on all files |
-
+|31 | `ctrl+enter` | go to next line (of the line you are in)
+|32 | `ctrl+shift+enter` | go to the precious line (of the line you are in)
 
 
