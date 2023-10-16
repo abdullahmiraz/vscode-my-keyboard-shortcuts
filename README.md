@@ -38,5 +38,5 @@ My custom vscode keyboard shortcuts/ keymap/ keybindings
 |30 | `ctrl+shift+f ` |  Click a text on VScode and use this shortcut to find a text on all files |
 |31 | `ctrl+enter` | go to next line (of the line you are in)|
 |32 | `ctrl+shift+enter` | go to the precious line (of the line you are in)|
-
+|33 | `ctrl+d` | select a text and press ctrl+d multiple times to select the next one|
 
