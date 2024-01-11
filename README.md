@@ -15,7 +15,7 @@ My custom vscode keyboard shortcuts/ keymap/ keybindings
 | 8      | `ctrl+shift+space` | Toggles the visibility of the activity bar    |
 | 9      | `shift+home`     | Expands the line selection                    |
 | 10     | `ctrl+l`         | Disables line selection expansion              |
-| 11     | `ctrl+shift+l`  | Selects from the cursor to the line start      |
+| 11     | `ctrl+shift+l`  | Selects all the keywords that you've kept cursor on     |
 | 12     | `shift+home`     | Disables cursor home selection                 |
 | 13     | `ctrl+c`         | Copies the selected text                       |
 | 14     | `ctrl+x`         | Cuts the selected text                         |
