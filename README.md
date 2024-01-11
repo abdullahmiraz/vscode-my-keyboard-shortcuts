@@ -39,4 +39,5 @@ My custom vscode keyboard shortcuts/ keymap/ keybindings
 |31 | `ctrl+enter` | go to next line (of the line you are in)|
 |32 | `ctrl+shift+enter` | go to the precious line (of the line you are in)|
 |33 | `ctrl+d` | select a text and press ctrl+d multiple times to select the next one|
+|34 | `ctrl+shift+(arrows)` | current selection to the next line/text |
 
