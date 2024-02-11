@@ -40,4 +40,4 @@ My custom vscode keyboard shortcuts/ keymap/ keybindings
 |32 | `ctrl+shift+enter` | go to the precious line (of the line you are in)|
 |33 | `ctrl+d` | select a text and press ctrl+d multiple times to select the next one|
 |34 | `ctrl+shift+(arrows)` | current selection to the next line/text |
-
+|35 | `shift+alt+o` | remove unused imports |
