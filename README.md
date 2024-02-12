@@ -41,3 +41,4 @@ My custom vscode keyboard shortcuts/ keymap/ keybindings
 |33 | `ctrl+d` | select a text and press ctrl+d multiple times to select the next one|
 |34 | `ctrl+shift+(arrows)` | current selection to the next line/text |
 |35 | `shift+alt+o` | remove unused imports |
+|35 | `f2` | rename the current variable, all the places at once |
