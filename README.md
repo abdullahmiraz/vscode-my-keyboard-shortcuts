@@ -11,7 +11,7 @@ My custom vscode keyboard shortcuts/ keymap/ keybindings
 | 4      | `ctrl+shift+a`   | Disables the current AREPL session            |
 | 5      | `ctrl+shift+a`   | Runs the code using Code Runner extension     |
 | 6      | `ctrl+alt+n`     | Disables Code Runner extension                |
-| 7      | `ctrl+shift+space` | Disables trigger for parameter hints        |
+| 7      | `ctrl+space` | Disables trigger for parameter hints        |
 | 8      | `ctrl+shift+space` | Toggles the visibility of the activity bar    |
 | 9      | `shift+home`     | Expands the line selection                    |
 | 10     | `ctrl+l`         | Disables line selection expansion              |
@@ -43,3 +43,4 @@ My custom vscode keyboard shortcuts/ keymap/ keybindings
 |35 | `shift+alt+o` | remove unused imports |
 |35 | `f2` | rename the current variable, all the places at once |
 |36 | `ctrl+space` | for suggestion on the current workspace|
+|36 | `ctrl+b` | hides the sidebar/dashboard|
