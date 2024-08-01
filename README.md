@@ -8,7 +8,6 @@ My custom vscode keyboard shortcuts/ keymap/ keybindings
 | 1      | `ctrl+shift+z`   | Changes the code to the previous style        |
 | 2      | `space`          | Leaves the snippet mode and highlights        |
 | 3      | `ctrl+shift+q`   | Runs the Java file                            |
-| 4      | `ctrl+shift+a`   | Disables the current AREPL session            |
 | 5      | `ctrl+shift+a`   | Runs the code using Code Runner extension     |
 | 6      | `ctrl+alt+n`     | Disables Code Runner extension                |
 | 7      | `ctrl+space` | Disables trigger for parameter hints        |
